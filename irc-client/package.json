@@ -1,19 +1,19 @@
 {
-  "name": "tcp-chat",
+  "name": "irc-client",
   "version": "0.0.1",
-  "description": "A TCP chat program",
+  "description": "An IRC (TCP) client",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickdesaulniers/smashingNodeExamplesi.git"
+    "url": "https://github.com/nickdesaulniers/smashingNodeExamples.git"
   },
   "keywords": [
-    "TCP",
-    "chat",
-    "node"
+    "IRC",
+    "Client",
+    "Node"
   ],
   "author": "Nick Desaulniers",
   "license": "MPL2.0",
