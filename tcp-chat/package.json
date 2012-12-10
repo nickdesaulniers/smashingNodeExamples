@@ -1,0 +1,21 @@
+{
+  "name": "tcp-chat",
+  "version": "0.0.1",
+  "description": "A TCP chat program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickdesaulniers/smashingNodeExamples"
+  },
+  "keywords": [
+    "TCP",
+    "chat",
+    "node"
+  ],
+  "author": "Nick Desaulniers",
+  "license": "MPL2.0",
+  "private": true
+}
